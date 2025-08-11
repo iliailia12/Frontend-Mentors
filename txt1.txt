@@ -1,13 +1,19 @@
 Frontend Mentor | Product preview card component 
 Frontend Mentor | Social links profile 
-Chat app CSS illustration
+Frontend Mentor | Chat app CSS illustration
 Frontend Mentor | Order summary card 
 Frontend Mentor | NFT preview card component 
 Frontend Mentor | Profile card component 
 Frontend Mentor | 3-column preview card component 
-Results summary component
+Frontend Mentor | Results summary component
 Frontend Mentor | Single Price Grid Component 
-Bento-Grid 
-Social proof section
-Coming Soon - Base Apparel 
+Frontend Mentor | Bento-Grid 
+Frontend Mentor | Social proof section
+Frontend Mentor | Coming Soon - Base Apparel 
 Frontend Mentor | Intro component with sign up form
+Frontend Mentor | Project tracking intro component
+Frontend Mentor | Four card feature section
+Frontend Mentor | Project tracking intro component
+Frontend Mentor | Rock, Paper, Scissors
+Frontend Mentor | Pricing Component With Toggle
+Frontend Mentor | Digitalbank landing page
