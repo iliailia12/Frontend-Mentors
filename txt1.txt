@@ -17,3 +17,23 @@ Frontend Mentor | Project tracking intro component
 Frontend Mentor | Rock, Paper, Scissors
 Frontend Mentor | Pricing Component With Toggle
 Frontend Mentor | Digitalbank landing page
+Frontend Mentor | Job Listings
+Frontend Mentor | Social media dashboard with theme switcher
+Frontend Mentor | Coding Bootcamp Testimonials Slider
+Frontend Mentor | Fylo data storage component
+Frontend Mentor | Article preview component
+Frontend Mentor | Testimonials grid section
+Frontend Mentor | Huddle landing page with single introductory section
+Frontend Mentor | Ping coming soon page
+Frontend Mentor | Interactive pricing component
+Frontend Mentor | Stats preview card component
+Frontend Mentor | Time tracking dashboard
+Frontend Mentor | NFT preview card component 
+Frontend Mentor | QR Code
+Frontend Mentor | Interactive rating component
+Frontend Mentor | Notifications page
+Frontend Mentor | News homepage
+Frontend Mentor | Multi-step form
+Frontend Mentor | Age calculator app
+Frontend Mentor | Newsletter sign-up form with success message
+Frontend Mentor | FAQ accordion
