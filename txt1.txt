@@ -37,3 +37,15 @@ Frontend Mentor | Multi-step form
 Frontend Mentor | Age calculator app
 Frontend Mentor | Newsletter sign-up form with success message
 Frontend Mentor | FAQ accordion
+Frontend Mentor | Blog preview card
+Frontend Mentor | Recipe page
+Frontend Mentor | Fylo landing page with dark theme and features grid
+Frontend Mentor | Loopstudios landing page
+Frontend Mentor | Sunnyside agency landing page
+Frontend Mentor | Contact form
+Frontend Mentor | Conference ticket generator
+Frontend Mentor | Browser extensions manager UI
+Frontend Mentor | Clipboard landing page
+Frontend Mentor | Product list with cart
+Frontend Mentor | Intro section with dropdown navigation
+Frontend Mentor | E-commerce product page
